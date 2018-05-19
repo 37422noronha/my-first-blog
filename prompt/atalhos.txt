@@ -1,0 +1,25 @@
+nome de usuario
+>whoami
+
+pasta atual
+>cd
+
+listem de diretório
+>dir
+
+entrar em outra pasta
+>cd Desktop
+
+criar pasta
+>mkdir nome
+
+voltar
+>cd ..
+
+
+exclusão de pasta
+> rmdir /S djangogirls
+djangogirls, Are you sure <Y/N>? Y
+
+comando de saída
+>exit
